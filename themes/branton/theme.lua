@@ -29,5 +29,6 @@ theme.menu_width                            = "120"
 theme.tasklist_floating                     = ""
 theme.tasklist_maximized_horizontal         = ""
 theme.tasklist_maximized_vertical           = "" 
+theme.menu_submenu_icon                     = themes_dir .. "/transparent.png"
 
 return theme
