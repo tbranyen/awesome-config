@@ -8,10 +8,12 @@ theme.fg_urgent                             = "#CC9393"
 theme.bg_normal                             = "#1A1A1A"
 theme.bg_focus                              = "#313131"
 theme.bg_urgent                             = "#1A1A1A"
-theme.border_width                          = "0"
-theme.border_normal                         = "#3F3F3F"
-theme.border_focus                          = "#7F7F7F"
-theme.border_marked                         = "#CC9393"
+
+theme.border_width                          = 1
+theme.border_normal                         = "#000000"
+theme.border_focus                          = "#535d6c"
+theme.border_marked                         = "#91231c"
+
 theme.titlebar_bg_focus                     = "#FFFFFF"
 theme.titlebar_bg_normal                    = "#FFFFFF"
 theme.taglist_fg_focus                      = "#7CD9FF"
